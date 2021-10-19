@@ -1,0 +1,28 @@
+.head{
+    width: 700px;
+    height: 200px;
+    background-color: darkblue;
+}
+.nav-p{
+    width: 700px;
+    height: 100px;
+    background-color: blue;
+}
+.center{
+    display: flex;
+}
+.m-m{
+    width: 500px;
+    height: 400px;
+    background-color: aqua;
+}
+.asid{
+    width: 200px;
+    height: 400px;
+    background-color: cadetblue;
+}
+.fot{
+    width: 700px;
+    height: 100px;
+    background-color: blue;
+}
