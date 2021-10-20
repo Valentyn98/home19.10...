@@ -8,9 +8,14 @@
     height: 100px;
     background-color: blue;
 }
-.center{
+.father{
     display: flex;
 }
+.center{
+    display: flex;
+    flex-direction: column;
+}
+
 .m-m{
     width: 500px;
     height: 400px;
