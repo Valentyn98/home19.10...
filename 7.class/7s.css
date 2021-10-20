@@ -1,0 +1,40 @@
+.container{
+    width: 600px;
+    height: 800px;
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.main{
+
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.first-ch{
+    height: 300px;
+    width: 45%;
+    background-color: blue;
+    border: 2px solid black;
+}
+.center{
+    margin-top: 20px;
+    height: 200px;
+    background-color: blue;
+    width: 95%;
+    border: 2px solid black;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+}
+.last-ch{
+    margin-top: 20px;
+    width: 170px;
+    height: 200px;
+    background-color: blue;
+    border: 2px solid black;
+}
