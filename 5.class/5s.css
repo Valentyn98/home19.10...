@@ -1,0 +1,42 @@
+.container{
+    width: 98%;
+    /*background-color: cadetblue;*/
+    border: 4px solid blue;
+    border-radius: 8px;
+    padding: 5px;
+
+}
+.header{
+    background-color: darkgoldenrod;
+    height: 200px;
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+    column-gap: 5px;
+    margin-top: 5px;
+}
+.main-left{
+
+    width: 80%;
+}
+.left-header{
+    height: 200px;
+    background-color: forestgreen;
+
+}
+.left-content {
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+}
+.item{
+    height: 200px;
+    width: 25%;
+    background-color: bisque;
+}
+.main-right{
+    background-color: darkblue;
+    width: 20%
+}
